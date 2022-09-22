@@ -1,0 +1,28 @@
+type: UnitFactory
+name: Unit Factory
+description: Unit Factory
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: adc-azure-wing    , time: 90, requirements: [] }    // (type: flying)  (health:  450)
+	{ unit: adc-fight         , time: 90, requirements: [] }    // (type: payload) (health:  980)
+	{ unit: adc-firmament     , time: 90, requirements: [] }    // (flying: true)  (health:  440)
+	{ unit: adc-flood         , time: 90, requirements: [] }    // (type: payload) (health:  890)
+	{ unit: adc-lambda        , time: 90, requirements: [] }    // (flying: true)  (health:  300)
+	{ unit: adc-scarlet-moth  , time: 90, requirements: [] }    // (flying: true)  (health:  260)
+	{ unit: adc-trident       , time: 90, requirements: [] }    // (type: flying)  (health:  250)
+	{ unit: adc-war           , time: 90, requirements: [] }    // (type: payload) (health: 8350)
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: duo
+
+alwaysUnlocked: true
