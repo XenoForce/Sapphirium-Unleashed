@@ -1,2 +1,2 @@
-# Sapphirium-Unleashed
+# Sapphirium Unleashed
 Unlock Sapphirium components
