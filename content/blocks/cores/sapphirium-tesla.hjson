@@ -1,0 +1,9 @@
+
+itemCapacity: 95000
+
+unitCapModifier: 40
+
+requirements: []
+buildCostMultiplier: 0.1
+
+alwaysUnlocked: true
