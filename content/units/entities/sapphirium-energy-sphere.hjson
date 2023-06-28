@@ -1,0 +1,14 @@
+
+// flying: true
+// health: 130
+// targetable: false
+// speed: 3
+// hidden: true
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

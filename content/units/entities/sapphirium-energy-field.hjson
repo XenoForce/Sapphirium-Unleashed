@@ -1,0 +1,18 @@
+
+// flying: true
+// health: 80
+// playerControllable: false
+// logicControllable: false
+// targetable: false
+// groundLayer: 50
+// hittable: false
+// speed: 0
+// hidden: true
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

@@ -1,0 +1,17 @@
+
+// armor: 14
+// health: 22000
+// speed: 0.26025
+// flying: true
+// drag: 0.012
+// accel: 0.06
+// lowAltitude: true
+// range: 160
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

@@ -1,0 +1,17 @@
+
+// speed: 0
+// health: 80
+// targetable: false
+// hittable: false
+// isEnemy: false
+// outlines: false
+// hidden: true
+// range: 60
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

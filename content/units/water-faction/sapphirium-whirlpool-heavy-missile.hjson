@@ -1,0 +1,16 @@
+
+// speed: 4.6
+// missileAccelTime: 50
+// targetAir: false
+// maxRange: 6
+// lifetime: 250
+// health: 210
+// lowAltitude: true
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

@@ -1,0 +1,21 @@
+
+// flying: true
+// shadowElevation: 0.1
+// controller: BuilderAI
+// fogRadius: 5
+// drag: 0.07
+// speed: 6
+// lowAltitude: true
+// mineWalls: true
+// mineFloor: true
+// accel: 0.09
+// health: 440
+// armor: 5
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

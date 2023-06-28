@@ -1,0 +1,19 @@
+
+// speed: 0.5
+// health: 1100
+// armor: 10
+// playerControllable: false
+// logicControllable: false
+// legCount: 6
+// legLength: 16
+// hovering: true
+// shadowElevation: 0.2
+// groundLayer: 74
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

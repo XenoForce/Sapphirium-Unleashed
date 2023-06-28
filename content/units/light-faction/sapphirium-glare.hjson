@@ -1,0 +1,18 @@
+
+// health: 340
+// armor: 3
+// speed: 2.6
+// drag: 0.04
+// flying: true
+// accel: 0.08
+// targetAir: false
+// targetFlags: [generator, factory]
+// lowAltitude: true
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

@@ -1,0 +1,20 @@
+
+// health: 8700
+// speed: 0.6
+// armor: 9
+// legCount: 8
+// legLength: 23
+// range: 150
+// legSplashDamage: 32
+// legSplashRange: 30
+// hovering: true
+// groundLayer: 75
+// shadowElevation: 0.65
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

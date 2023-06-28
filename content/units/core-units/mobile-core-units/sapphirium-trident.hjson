@@ -1,0 +1,19 @@
+
+// flying: true
+// targetAir: false
+// armor: 3
+// controller: BuilderAI
+// faceTarget: false
+// circleTarget: true
+// speed: 1.35
+// drag: 0.034
+// accel: 0.07
+// health: 250
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

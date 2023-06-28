@@ -9,14 +9,55 @@ itemCapacity: 30
 consumes: {}
 
 plans: [
-	{ unit: adc-azure-wing    , time: 90, requirements: [] }    // (type: flying)  (health:  450)
-	{ unit: adc-fight         , time: 90, requirements: [] }    // (type: payload) (health:  980)
-	{ unit: adc-firmament     , time: 90, requirements: [] }    // (flying: true)  (health:  440)
-	{ unit: adc-flood         , time: 90, requirements: [] }    // (type: payload) (health:  890)
-	{ unit: adc-lambda        , time: 90, requirements: [] }    // (flying: true)  (health:  300)
-	{ unit: adc-scarlet-moth  , time: 90, requirements: [] }    // (flying: true)  (health:  260)
-	{ unit: adc-trident       , time: 90, requirements: [] }    // (type: flying)  (health:  250)
-	{ unit: adc-war           , time: 90, requirements: [] }    // (type: payload) (health: 8350)
+	// { unit: sapphirium-azure-wing    , time: 120, requirements: [] }    // (type: flying)  (health:  450)
+	// { unit: sapphirium-fight         , time: 120, requirements: [] }    // (type: payload) (health:  980)
+	// { unit: sapphirium-firmament     , time: 120, requirements: [] }    // (flying: true)  (health:  440)
+	// { unit: sapphirium-flood         , time: 120, requirements: [] }    // (type: payload) (health:  890)
+	// { unit: sapphirium-lambda        , time: 120, requirements: [] }    // (flying: true)  (health:  300)
+	// { unit: sapphirium-scarlet-moth  , time: 120, requirements: [] }    // (flying: true)  (health:  260)
+	// { unit: sapphirium-trident       , time: 120, requirements: [] }    // (type: flying)  (health:  250)
+	// { unit: sapphirium-war           , time: 120, requirements: [] }    // (type: payload) (health: 8350)
+	
+	
+	
+	{ unit: sapphirium-epitaph          , time: 120, requirements: [] }    // (type: Tank) (health: 240,000 ) Boss
+	{ unit: sapphirium-fatum            , time: 120, requirements: [] }    // (type: Legs) (health: 340,000 ) Boss
+	
+	
+	{ unit: sapphirium-degree           , time: 120, requirements: [] }    // (type: Legs) (health:    120) Ice-faction: T1
+	{ unit: sapphirium-zero             , time: 120, requirements: [] }    // (type: Legs) (health:    450) Ice-faction: T2
+	{ unit: sapphirium-snowblock        , time: 120, requirements: [] }    // (type: Legs) (health:  1,190) Ice-faction: T3
+	{ unit: sapphirium-snowstorm        , time: 120, requirements: [] }    // (type: Legs) (health:  8,700) Ice-faction: T4
+	{ unit: sapphirium-cold-blood       , time: 120, requirements: [] }    // (type: Legs) (health: 17,800) Ice-faction: T5
+	
+	
+	{ unit: sapphirium-beam             , time: 120, requirements: [] }    // (type: Flying) (health:    130) Light-faction: T1
+	{ unit: sapphirium-glare            , time: 120, requirements: [] }    // (type: Flying) (health:    340) Light-faction: T2
+	{ unit: sapphirium-luminary         , time: 120, requirements: [] }    // (type: Flying) (health:    700) Light-faction: T3
+	{ unit: sapphirium-star             , time: 120, requirements: [] }    // (type: Flying) (health:  9,300) Light-faction: T4
+	{ unit: sapphirium-prophecy         , time: 120, requirements: [] }    // (type: Flying) (health: 14,000) Light-faction: T5
+	
+	
+	{ unit: sapphirium-hole             , time: 120, requirements: [] }    // (type: Mech) (health:    120) Shadows: T1
+	{ unit: sapphirium-emptiness        , time: 120, requirements: [] }    // (type: Mech) (health:    440) Shadows: T2
+	{ unit: sapphirium-shadow           , time: 120, requirements: [] }    // (type: Mech) (health:  1,000) Shadows: T3
+	{ unit: sapphirium-void             , time: 120, requirements: [] }    // (type: Mech) (health: 11,000) Shadows: T4
+	{ unit: sapphirium-nihil            , time: 120, requirements: [] }    // (type: Mech) (health: 21,000) Shadows: T5
+	
+	
+	{ unit: sapphirium-sound            , time: 120, requirements: [] }    // (type: Flying) (health:    150) Support: T1
+	{ unit: sapphirium-tune             , time: 120, requirements: [] }    // (type: Flying) (health:    450) Support: T2
+	{ unit: sapphirium-vibration        , time: 120, requirements: [] }    // (type: Flying) (health:    900) Support: T3
+	{ unit: sapphirium-whisper          , time: 120, requirements: [] }    // (type: Flying) (health: 11,000) Support: T4
+	{ unit: sapphirium-shriek           , time: 120, requirements: [] }    // (type: Flying) (health: 22,000) Support: T5
+	
+	
+	{ unit: sapphirium-course           , time: 120, requirements: [] }    // (type: Navy-Flying) (health:    280) Water-faction: T1
+	{ unit: sapphirium-parity           , time: 120, requirements: [] }    // (type: Navy-Flying) (health:    650) Water-faction: T2
+	{ unit: sapphirium-edge             , time: 120, requirements: [] }    // (type: Navy-Flying) (health:  1,100) Water-faction: T3
+	{ unit: sapphirium-whirlpool        , time: 120, requirements: [] }    // (type: Navy-Flying) (health: 13,300) Water-faction: T4
+	{ unit: sapphirium-tornado          , time: 120, requirements: [] }    // (type: Navy-Flying) (health: 26,000) Water-faction: T5
+	
 ]
 
 requirements: []

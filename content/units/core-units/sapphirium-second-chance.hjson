@@ -1,0 +1,14 @@
+
+// health: 700
+// speed: 0
+// range: 210
+// playerControllable: false
+// logicControllable: false
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

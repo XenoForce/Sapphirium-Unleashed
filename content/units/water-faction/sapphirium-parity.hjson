@@ -1,0 +1,19 @@
+
+// health: 650
+// armor: 4
+// naval: true
+// speed: 0.85
+// drag: 0.13
+// accel: 0.5
+// faceTarget: false
+
+
+type: flying
+flying: true
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

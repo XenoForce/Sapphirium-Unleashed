@@ -1,0 +1,14 @@
+
+// speed: 4
+// maxRange: 6
+// lifetime: 90
+// health: 55
+// lowAltitude: true
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

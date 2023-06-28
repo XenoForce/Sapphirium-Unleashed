@@ -1,0 +1,18 @@
+
+// health: 800
+// armor: 4
+// speed: 3
+// drag: 0.05
+// accel: 0.05
+// flying: true
+// useUnitCap: false
+// allowedInPayloads: false
+// lowAltitude: true
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

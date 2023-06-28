@@ -1,0 +1,23 @@
+
+// coreUnitDock: true
+// controller: RepairAI
+// lowAltitude: false
+// mineWalls: true
+// mineFloor: false
+// mineHardnessScaling: false
+// flying: true
+// drag: 0.08
+// speed: 6
+// accel: 0.08
+// health: 900
+// armor: 3
+// targetable: false
+// hittable: false
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

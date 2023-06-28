@@ -1,0 +1,16 @@
+
+// targetFlags: [generator]
+// hovering: true
+// drag: 0.07
+// speed: 3
+// accel: 0.09
+// health: 680
+// armor: 3
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

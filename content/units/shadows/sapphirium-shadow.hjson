@@ -1,0 +1,14 @@
+
+// speed: 0.4
+// health: 1000
+// armor: 6
+// mechFrontSway: 0.55
+// range: 60
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

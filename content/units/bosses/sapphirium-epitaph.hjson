@@ -1,0 +1,20 @@
+
+// health: 240000
+// speed: 0.14
+// armor: 74
+// range: 160
+// targetFlags: [turret, core]
+// forceMultiTarget: true
+// alwaysShootWhenMoving: true
+// groundLayer: 70.1
+// rotateSpeed: 0.09
+
+
+rotateSpeed: 1.4
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

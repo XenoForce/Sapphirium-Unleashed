@@ -1,0 +1,16 @@
+
+// health: 130 
+// armor: 2 
+// speed: 3 
+// flying: true 
+// accel: 0.08 
+// targetAir: false 
+// targetFlags: [generator] 
+
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true
